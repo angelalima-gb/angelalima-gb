@@ -1,16 +1,33 @@
-## Hi there 👋
-
-<!--
-**angelalima-gb/angelalima-gb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```tsx
+const profile: Profile = {
+  name: "Angela Lima",
+  role: "Junior Fullstack Developer @ Gaspard+Bruno",
+  company: {
+    name: "Gaspard+Bruno",
+    url: "https://gaspardbruno.com/"
+  },
+  education: {
+    name: "42 Lisboa",
+    url: "https://www.42lisboa.com/"
+  },
+  techStack: [
+    "React",
+    "TypeScript",
+    "C++",
+    "C",
+    "Tailwind CSS",
+    "Node.js",
+    "Express",
+    "C",
+    "C++",
+    "Python"
+    "Docker"
+    "Sass"
+    "Go"
+  ],
+  currentlyReading: [
+    { title: "Gyo", author: "Junji Ito", pages: 400 },
+    { title: "Assim Falou Zaratustra", author: "Friedrich Nietzsche", pages: 209 }
+  ]
+}
+```
