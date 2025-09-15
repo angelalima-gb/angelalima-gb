@@ -25,9 +25,5 @@ const profile: Profile = {
     "Sass"
     "Go"
   ],
-  currentlyReading: [
-    { title: "Gyo", author: "Junji Ito", pages: 400 },
-    { title: "Assim Falou Zaratustra", author: "Friedrich Nietzsche", pages: 209 }
-  ]
 }
 ```
