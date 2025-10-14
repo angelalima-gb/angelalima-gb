@@ -20,9 +20,9 @@ const profile: Profile = {
     "Express",
     "C",
     "C++",
-    "Python"
-    "Docker"
-    "Sass"
+    "Python",
+    "Docker",
+    "Sass",
     "Go"
   ],
 }
